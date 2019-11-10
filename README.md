@@ -1,4 +1,4 @@
-# Blockchain-Brurte-Forcer
+# Blockchain-Brute-Forcer
 Node js Script which scans for open ports in network, establish connection with blockchain node and attempts to brute force user accounts. <br />
 There is no question on the security of underlying crypto in blockchain frameworks, but will crypto alone make blockchain systems secure?
 The DAO and Parity freeze hacks can be considered as two of the most famous hacks were attackers could abuse the logic of smart contracts in Ethereum. **Blockchain_Brute_forcer.js is a demonstration that how Ethereum nodes with user accounts having weak passwords can be breached.**  I hope that people will feel motivated to contribute their own ideas and improvements. <br />
